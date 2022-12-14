@@ -32,6 +32,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'jiangmiao/auto-pairs'
 Plug 'tpope/vim-fugitive'
 Plug 'neoclide/coc.nvim', {'branch':'release'}
+Plug 'arcticicestudio/nord-vim'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
